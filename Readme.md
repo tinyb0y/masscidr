@@ -1,6 +1,6 @@
 # MassCIDR
 
-Takes multiple CIDR as input and convert them to a masscan script file.
+Takes multiple CIDR as input and converts them into a masscan script file.
 
 ### Usage Example
 
